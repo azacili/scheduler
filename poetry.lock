@@ -175,7 +175,7 @@ description = "Extensions for Django"
 name = "django-extensions"
 optional = false
 python-versions = ">=3.5"
-version = "3.0.7"
+version = "3.0.8"
 
 [[package]]
 category = "dev"
@@ -708,7 +708,7 @@ version = "5.2.0"
 brotli = ["brotli"]
 
 [metadata]
-content-hash = "45b2efde0c70a11a57d8660884775b16bce5d0af1d4626604514ae0d3e8e9ab0"
+content-hash = "e012e4b0a5d1462b57c59d4cae78ec2a1173749582ab951d8a48a08d5cf2d1b8"
 lock-version = "1.0"
 python-versions = "3.8.3"
 
@@ -835,8 +835,8 @@ django-debug-toolbar = [
     {file = "django_debug_toolbar-2.2-py3-none-any.whl", hash = "sha256:ff94725e7aae74b133d0599b9bf89bd4eb8f5d2c964106e61d11750228c8774c"},
 ]
 django-extensions = [
-    {file = "django-extensions-3.0.7.tar.gz", hash = "sha256:b49388a943368417d4c203d51866ca4ffe3011bb240679558521762c4b452b8a"},
-    {file = "django_extensions-3.0.7-py2.py3-none-any.whl", hash = "sha256:0ede618f3d933317737406c979753bb91436c3b3e93a452638a1483b624aa89d"},
+    {file = "django-extensions-3.0.8.tar.gz", hash = "sha256:a67747508ec39583892fbddf57e0b66b3f332a885ef5520698bc2e1cb351955a"},
+    {file = "django_extensions-3.0.8-py3-none-any.whl", hash = "sha256:c7c2ca48ccc2ecc4427c908cd3a6dc114fc7534092de51209b02f84ccafe648b"},
 ]
 django-sslserver = [
     {file = "django_sslserver-0.22-py3-none-any.whl", hash = "sha256:c598a363d2ccdc2421c08ddb3d8b0973f80e8e47a3a5b74e4a2896f21c2947c5"},
